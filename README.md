@@ -1,5 +1,7 @@
 # news_detail
 
+![this screenshot](../ezgif.com-video-to-gif.gif)
+
 A new Flutter project.
 
 ## Getting Started

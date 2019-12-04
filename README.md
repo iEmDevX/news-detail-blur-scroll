@@ -1,6 +1,6 @@
 # news_detail
 
-![this screenshot](../ezgif.com-video-to-gif.gif)
+![](https://github.com/iEmDevX/news-detail-blur-scroll/blob/master/ezgif.com-video-to-gif.gif)
 
 A new Flutter project.
 
